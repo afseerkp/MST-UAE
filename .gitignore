@@ -1,0 +1,9 @@
+# local tooling output, not part of the site
+.taste-skill/
+.claude/
+.staging/
+
+# OS clutter
+Thumbs.db
+desktop.ini
+.DS_Store
